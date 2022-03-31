@@ -1,0 +1,26 @@
+.form-control{
+    background-color: antiquewhite;
+}
+label{
+    display: inline-block;
+    margin: 10px 0;
+}
+input{
+    border: 1px black solid;
+    border-radius: 2px;
+    display: block;
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+}
+
+.btn{
+    background-color: rgb(144, 39, 243);
+    color: aliceblue;
+    cursor: pointer;
+    display: block;
+    margin: 20px 0 30px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+}
